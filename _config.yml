@@ -1,1 +1,7 @@
 theme: jekyll-theme-minimal
+
+title: MOST
+description: MOST 在2016年11月26日诞生。我们以11.26%为起点，构建出一个与大学生学习和日常生活紧密结合，满足教师之间、学生之间与师生之间多维度交流，方便大学生校园生活的信息交流平台。它也将成为LGUers的专属App。
+logo: https://github.com/xcffl/MOST-Home/raw/master/most_icon_with_background.png
+
+show_downloads: true
