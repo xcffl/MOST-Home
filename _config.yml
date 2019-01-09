@@ -1,5 +1,5 @@
-# theme: jekyll-theme-minimal
-remote_theme: jonas/paradox-material-theme
+theme: jekyll-theme-minimal
+# remote_theme: jonas/paradox-material-theme
 
 
 title: MOST
