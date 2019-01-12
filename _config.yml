@@ -4,8 +4,8 @@ theme: jekyll-theme-minimal
 
 title: MOST
 description: MOST 在 2016 年 11 月 26 日诞生。我们以 11.26% 为起点，构建出一个与大学生学习和日常生活紧密结合，满足教师之间、学生之间与师生之间多维度交流，方便大学生校园生活的信息交流平台。它也将成为 LGUers 的专属 App。
-logo: https://morchestra.com/most_icon_with_background.png
+logo: assets/images/most_icon_with_background.png
 
 show_downloads: true
 
-release_url: https://github.com/xcffl/MOST-Home/releases/download/1.1.1%2B3/app-release.apk
+release_url: releases/app-release.apk
